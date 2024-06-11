@@ -22,24 +22,24 @@ export default function Home() {
         </Grid>
         <Grid container spacing={2}>
           <Grid item xs={4}>
-            <Video src="woody.mp4"/>
+            <Video src="chaves.mp4"/>
           </Grid>
           <Grid item xs={4}>
-            <Video src="woody.mp4"/>
+            <Video src="coringa.mp4"/>
           </Grid>
           <Grid item xs={4}>
-            <Video src="woody.mp4"/>
+            <Video src="narrador.mp4"/>
           </Grid>
         </Grid>
         <Grid container spacing={2}>
           <Grid item xs={4}>
-            <Video src="woody.mp4"/>
+            
           </Grid>
           <Grid item xs={4}>
-            <Video src="woody.mp4"/>
+            <Video src="lula.mp4"/>
           </Grid>
           <Grid item xs={4}>
-            <Video src="woody.mp4"/>
+            
           </Grid>
         </Grid>
         <Divider style={{margin: '2rem 0', backgroundColor: 'gray'}}/>
@@ -52,7 +52,7 @@ export default function Home() {
         </div>
         <Grid container spacing={2}>
           <Grid item xs={4}>
-            <Video src="ednaldoRuim.mp4"/>
+            <Video src="ednaldoRuimMelhor.mp4"/>
           </Grid>
           <Grid item xs={4}>
             <Video src="lulaRuim.mp4"/>
